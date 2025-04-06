@@ -1,0 +1,50 @@
+<quiz>
+<question id="1">
+<text>Care e capitala Franței?</text>
+<option>A. Paris</option>
+<option>B. Madrid</option>
+<option>C. Roma</option>
+<option>D. București</option>
+<correct>A</correct>
+</question>
+<question id="2">
+<text>Ce port este folosit de protocolul HTTP?</text>
+<options>
+<option>A. 80</option>
+<option>B. 443</option>
+<option>C. 21</option>
+<option>D. 25</option>
+</options>
+<correct>A</correct>
+</question>
+<question id="3">
+<text>Care este cel mai mare ocean din lume?</text>
+<options>
+<option>A. Oceanul Atlantic</option>
+<option>B. Oceanul Indian</option>
+<option>C. Oceanul Arctic</option>
+<option>D. Oceanul Pacific</option>
+</options>
+<correct>D</correct>
+</question>
+<question id="4">
+<text>Câte continente există pe glob?</text>
+<options>
+<option>A. 5</option>
+<option>B. 6</option>
+<option>C. 7</option>
+<option>D. 8</option>
+</options>
+<correct>C</correct>
+</question>
+<question id="5">
+<text>Ce simbol este utilizat pentru a comenta o linie în C++?</text>
+<options>
+<option>A. #</option>
+<option>B. //</option>
+<option>C. /* */</option>
+<option>D. \\</option>
+</options>
+<correct>B</correct>
+</question>
+</quiz>
